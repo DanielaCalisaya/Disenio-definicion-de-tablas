@@ -1,5 +1,7 @@
 # *Diseño y definición de tablas*
 
+![portada](img/cover.png)
+
 ## Objetivo
 Al igual que hicimos con el armado de wireframes y bocetos antes de comenzar a
 trabajar con HTML y CSS, siempre es recomendable que pensemos en las necesidades
@@ -96,3 +98,7 @@ cada caso que tengamos que resolver.
 No olvidemos esta práctica, pues pronto tendremos que diseñar, en equipo, la base de
 datos del proyecto integrador. 🤓🚀
 ¡Hasta la próxima!
+
+## Clase 74
+
+## Ubicación -> Programación/TRABAJOS PRACTICOS/Diseño y definición de tablas
